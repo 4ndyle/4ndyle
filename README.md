@@ -1,10 +1,10 @@
 # Hi, I'm Andy 
 
 <div align="center">
-  <img width="17.5%" src="https://static.vecteezy.com/system/resources/thumbnails/009/665/322/small/cute-kitty-cat-family-greeting-cartoon-element-png.png" />
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4ndyle&theme=algolia&hide_border=true"/>
+  <img width="10%" src="https://static.vecteezy.com/system/resources/thumbnails/009/665/322/small/cute-kitty-cat-family-greeting-cartoon-element-png.png" />
+<img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4ndyle&theme=algolia&hide_border=true"/>
   
-  <img width="17.5%" src="https://pngfre.com/wp-content/uploads/cat-91-991x1024.png" />
+  <img width="10%" src="https://pngfre.com/wp-content/uploads/cat-91-991x1024.png" />
 </div>
 
 
