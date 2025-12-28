@@ -1,15 +1,16 @@
 # Hi, I'm Andy 
 
 <div align="center">
-  <img width="20%" src="https://static.vecteezy.com/system/resources/thumbnails/009/665/322/small/cute-kitty-cat-family-greeting-cartoon-element-png.png" />
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs?username=4ndyle&layout=donut&langs_count=8&card_width=320&hide=HLSL,ShaderLab,HTML,CSS,PowerShell,Shell,Cython,Mako,Makefile&hide_progress=true&theme=algolia" />
-  <img width="20%" src="https://pngfre.com/wp-content/uploads/cat-91-991x1024.png" />
+  <img width="17.5%" src="https://static.vecteezy.com/system/resources/thumbnails/009/665/322/small/cute-kitty-cat-family-greeting-cartoon-element-png.png" />
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4ndyle&theme=algolia&hide_border=true"/>
+  
+  <img width="17.5%" src="https://pngfre.com/wp-content/uploads/cat-91-991x1024.png" />
 </div>
 
 
 ---
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4ndyle&theme=algolia&hide_border=true"/>
+  <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" />
 
 
 ---
