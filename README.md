@@ -1,5 +1,10 @@
 # Hi, I'm Andy 
 
+
+
+<img width="100%" src="./profile-3d-contrib/profile-night-view.svg" />
+
+
 <!-- <div align="center">
   <img width="10%" src="https://static.vecteezy.com/system/resources/thumbnails/009/665/322/small/cute-kitty-cat-family-greeting-cartoon-element-png.png" />
 <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4ndyle&theme=algolia&hide_border=true"/>
@@ -7,10 +12,7 @@
   <img width="10%" src="https://pngfre.com/wp-content/uploads/cat-91-991x1024.png" />
 </div> -->
 
-
-  <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" />
-
-
+<!--
 ---
 
 
@@ -50,6 +52,7 @@
   <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="60" height="60"/></a>
 </p>
+-->
 
 <!--
 **4ndy1e/4ndy1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
